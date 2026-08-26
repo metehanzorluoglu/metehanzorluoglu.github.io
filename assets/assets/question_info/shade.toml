@@ -1,0 +1,20 @@
+questionText = 'How much of the project area is shaded during a hot summer afternoon?'
+useUrl = 'PST Tree Canopy and Shade Map'
+url = 'https://experience.arcgis.com/experience/5dd478f3e17746e7bb3a374d1873bf73'
+answers = [
+  { text = 'Under 7.5 percent', points = 0.0 },
+  { text = '7.5 to less than 15 percent', points = 1.0 },
+  { text = '15 percent or more', points = 2.0 },
+]
+answerLeadingHeader = 'Shade:'
+domain = ''
+autoFillEnabled = false
+buttonText = ''
+instructionsMarkdown = '''
+* XXXX available [here](https://experience.arcgis.com/experience/5dd478f3e17746e7bb3a374d1873bf73).
+* XXXXXXXX
+* XXXXXXXX
+* XXXXXXXX
+'''
+videoId = ''
+hint = ''
